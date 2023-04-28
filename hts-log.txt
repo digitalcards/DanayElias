@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 28 Apr 2023 07:50:36 at https://danabelenroman15.wixsite.com/misitio +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://danabelenroman15.wixsite.com/misitio -O1 "C:\Users\Elias\Desktop\DIGITAL\Digital cards" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:50:56	Error: 	"Not Found" (404) at link https://danabelenroman15.wixsite.com/decodeURIComponent(e (from https://danabelenroman15.wixsite.com/misitio)
+07:50:56	Error: 	"Not Found" (404) at link https://danabelenroman15.wixsite.com/sitemap.xml (from https://danabelenroman15.wixsite.com/misitio)
+07:50:56	Error: 	"Not Found" (404) at link https://danabelenroman15.wixsite.com/feed.xml (from https://danabelenroman15.wixsite.com/misitio)
+07:50:56	Error: 	"Not Found" (404) at link https://danabelenroman15.wixsite.com/ (from https://danabelenroman15.wixsite.com/misitio)
+07:50:56	Error: 	"Not Found" (404) at link https://danabelenroman15.wixsite.com/media/emptystate.85a4add5.svg (from https://danabelenroman15.wixsite.com/misitio)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 55 links scanned, 49 files written (6003373 bytes overall) [4808107 bytes received at 240405 bytes/sec], 1662738 bytes transferred using HTTP compression in 17 files, ratio 25%, 1.1 requests per connection
+(5 errors, 0 warnings, 0 messages)
